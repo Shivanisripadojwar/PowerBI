@@ -1,5 +1,17 @@
-Components of power BI
+--------------------Components of power BI-------------------------------------
 1. Powerquery
 2. Powerpivot
 3.powerview
 4.powerBI service
+-------------------------------------------------------------------------------
+why powerBI?
+1. many features (functions, visuals)
+2. trending one
+3. cheapest tool
+4. data connectivity from many sources (excel, word)
+--------------------------how it works?--------------------------------------
+1.power bi desktop- developers work on this part like cleaning data, data modelling and when the data has be shared to the client then powerBI service takes place.
+2.power bi service- we share files to clients through this.
+--------------------------------------------------------------------------------
+installing
+
